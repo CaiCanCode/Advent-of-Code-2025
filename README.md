@@ -9,3 +9,5 @@ A few things
 - each day is in its own directory and represents the solution for the last task of that day (so not the first half)
 - I intend to finish every day but I don't know if they'll all be on time
 - have fun :D
+
+Reddit user u/IsatisCrucifer helped with day3 part2
